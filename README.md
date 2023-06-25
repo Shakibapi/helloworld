@@ -25,7 +25,8 @@ lak.penup()
 
 # ایجاد توپ‌ها
 balls = []
-num_balls = 1
+num_balls = 1 ویرایش اولیه بازی
+
 
 w = turtle.Turtle()
 w.color("black")
